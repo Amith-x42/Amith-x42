@@ -184,8 +184,6 @@ Discover more experiments, applications, and projects from my development journe
 
 ---
 
-## 📊 GitHub Analytics
-
 
 ## 📊 GitHub Analytics
 
