@@ -186,23 +186,17 @@ Discover more experiments, applications, and projects from my development journe
 
 ## 📊 GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<a href="https://github.com/Amith-x42">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amith-x42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Statistics"/>
-</a>
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
 
-<a href="https://github.com/Amith-x42">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amith-x42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Amith-x42">
-<img width="65%" src="https://streak-stats.demolab.com/?user=Amith-x42&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</a>
+<img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"/>
 
 </div>
+
 
 ---
 
