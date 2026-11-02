@@ -200,13 +200,20 @@ Discover more experiments, applications, and projects from my development journe
 
 ## 📈 Contribution Activity
 
+
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amith-x42&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 </div>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
