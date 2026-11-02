@@ -196,44 +196,7 @@ Discover more experiments, applications, and projects from my development journe
 </div>
 
 
----
-
-## 📈 Contribution Activity
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<!-- BEGIN ACTIVITY-GRAPH -->
-<!-- END ACTIVITY-GRAPH -->
-
-</div>
-
----
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Amith-x42/Amith-x42/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amith-x42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
+--
 
 ## 💭 A Little Motivation
 
